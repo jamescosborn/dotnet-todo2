@@ -1,0 +1,19 @@
+﻿@model IEnumerable<Locations.Models.Location>
+
+<html>
+<head>
+    <title>Location List</title>
+</head>
+<body>
+  <h2>Location List</h2>
+  <hr />
+  <h4>@Html.DisplayNameFor(model => model.Name)</h4>
+  <ul>
+    @foreach(var listLocation in Model)
+    {
+        <li>@Html.DisplayFor(modelLocation => listLocation.Name) | @Html.ActionLink("Details", "Details", new { id = listLocation.LocationId }) | @Html.ActionLink("Edit", "Edit", new { id = listLocation.LocationId }) | @Html.ActionLink("Delete", "Delete", new { id = listLocation.LocationId })</li>
+    }
+  </ul>
+  <p>@Html.ActionLink("Add new location", "Create")</p>
+</body>
+</html>

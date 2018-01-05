@@ -1,0 +1,13 @@
+﻿@model Locations.Models.Location
+
+<html>
+<head>
+    <title>Location List - Details</title>
+</head>
+<body>
+    <h2>Details</h2>
+    <hr />
+    @Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(model => model.Name)
+    <p>@Html.ActionLink("Back to Locations", "Index")</p>
+</body>
+</html>

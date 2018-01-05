@@ -1,0 +1,9 @@
+/Users/Guest/Desktop/Locations/Locations/bin/Debug/netcoreapp1.1/Locations.deps.json
+/Users/Guest/Desktop/Locations/Locations/bin/Debug/netcoreapp1.1/Locations.runtimeconfig.json
+/Users/Guest/Desktop/Locations/Locations/bin/Debug/netcoreapp1.1/Locations.runtimeconfig.dev.json
+/Users/Guest/Desktop/Locations/Locations/obj/Debug/netcoreapp1.1/Locations.csprojResolveAssemblyReference.cache
+/Users/Guest/Desktop/Locations/Locations/obj/Debug/netcoreapp1.1/Locations.AssemblyInfo.cs
+/Users/Guest/Desktop/Locations/Locations/bin/Debug/netcoreapp1.1/Locations.dll
+/Users/Guest/Desktop/Locations/Locations/bin/Debug/netcoreapp1.1/Locations.pdb
+/Users/Guest/Desktop/Locations/Locations/obj/Debug/netcoreapp1.1/Locations.dll
+/Users/Guest/Desktop/Locations/Locations/obj/Debug/netcoreapp1.1/Locations.pdb
